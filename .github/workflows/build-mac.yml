@@ -38,8 +38,13 @@ jobs:
             --name "SamsamM2" \
             "삼삼엠투GUI프로그램_최종.py"
 
+      - name: Zip macOS app
+        run: |
+          cd dist
+          zip -r SamsamM2-macOS.zip SamsamM2.app
+
       - name: Upload macOS App artifact
-        uses: actions/upload-artifact@v4      
+        uses: actions/upload-artifact@v4
         with:
           name: macOS-app
-          path: dist/SamsamM2.app
+          path: dist/SamsamM2-macOS.zip
