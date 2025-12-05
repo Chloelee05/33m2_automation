@@ -1,10 +1,11 @@
 name: Build macOS App
 
 on:
-  workflow_dispatch:   
+  workflow_dispatch:
   push:
     branches:
-      - main             
+      - main
+
 jobs:
   build-macos:
     runs-on: macos-latest
@@ -26,10 +27,19 @@ jobs:
 
       - name: Build .app using PyInstaller
         run: |
-          pyinstaller --windowed --onefile --name "MyApp" main.py
+          pyinstaller --windowed --onefile \
+            --add-data "budongsan.ui:." \
+            --add-data "budongsan_icon.png:." \
+            --add-data "NanumGothic.ttf:." \
+            --add-data "NanumGothicBold.ttf:." \
+            --add-data "NanumGothicExtraBold.ttf:." \
+            --add-data "NanumGothicLight.ttf:." \
+            --exclude-module PyQt5 \
+            --name "SamsamM2" \
+            "삼삼엠투GUI프로그램_최종.py"
 
       - name: Upload macOS App artifact
         uses: actions/upload-artifact@v3
         with:
           name: macOS-app
-          path: dist/MyApp.app
+          path: dist/SamsamM2.app

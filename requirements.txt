@@ -1,3 +1,8 @@
-requests
-pyside6
-pandas
+PySide6==6.6.1
+requests==2.31.0
+pandas==1.5.3
+openpyxl==3.1.2
+pillow==10.0.1
+selenium==4.15.2
+webdriver-manager==4.0.1
+beautifulsoup4==4.12.2
