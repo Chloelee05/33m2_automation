@@ -1,0 +1,823 @@
+2024-11-02 16:38:41,350 - INFO - ====== WebDriver manager ======
+2024-11-02 16:38:42,536 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:38:42,560 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:38:42,580 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-02 16:38:46,639 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-02 16:38:52,289 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-02 16:38:52,340 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-02 16:38:55,713 - INFO - 11월 예약현황 : 23 / 29
+2024-11-02 16:38:57,694 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 16:38:59,654 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:39:01,561 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-02 16:39:02,135 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-02 16:39:05,269 - INFO - 11월 예약현황 : 15 / 29
+2024-11-02 16:39:07,273 - INFO - 12월 예약현황 : 2 / 31
+2024-11-02 16:39:09,227 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:39:11,154 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-02 16:39:11,728 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-02 16:39:14,727 - INFO - 11월 예약현황 : 0 / 29
+2024-11-02 16:39:16,697 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 16:39:18,715 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:39:20,639 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-02 16:39:21,214 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-02 16:39:21,235 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-02 16:39:21,235 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-02 16:39:21,533 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-02 16:39:25,274 - INFO - 드라이버가 종료되었습니다.
+2024-11-02 16:39:45,050 - INFO - ====== WebDriver manager ======
+2024-11-02 16:39:46,067 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:39:46,095 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:39:46,135 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-02 16:39:50,318 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-02 16:39:56,154 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-02 16:39:56,201 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-02 16:39:59,933 - INFO - 11월 예약현황 : 23 / 29
+2024-11-02 16:40:01,893 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 16:40:03,880 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:40:05,763 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-02 16:40:06,332 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-02 16:40:09,352 - INFO - 11월 예약현황 : 15 / 29
+2024-11-02 16:40:11,360 - INFO - 12월 예약현황 : 2 / 31
+2024-11-02 16:40:13,292 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:40:15,176 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-02 16:40:15,742 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-02 16:40:18,751 - INFO - 11월 예약현황 : 0 / 29
+2024-11-02 16:40:20,665 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 16:40:22,591 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:40:24,511 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-02 16:40:25,078 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-02 16:40:25,099 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-02 16:40:25,100 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-02 16:40:25,334 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-02 16:40:29,107 - INFO - 드라이버가 종료되었습니다.
+2024-11-02 16:49:13,447 - INFO - ====== WebDriver manager ======
+2024-11-02 16:49:14,431 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:49:14,458 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:49:14,482 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-02 16:49:19,179 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-02 16:49:24,946 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-02 16:49:25,011 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-02 16:49:28,807 - WARNING - 예약 현황 수집 중 오류 발생: name 'current_month' is not defined
+2024-11-02 16:49:28,807 - INFO - 평균 예약률: 20.69%
+2024-11-02 16:49:28,808 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-02 16:49:29,378 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-02 16:49:32,450 - WARNING - 예약 현황 수집 중 오류 발생: name 'current_month' is not defined
+2024-11-02 16:49:32,450 - INFO - 평균 예약률: 48.28%
+2024-11-02 16:49:32,451 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-02 16:49:33,016 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-02 16:49:36,012 - WARNING - 예약 현황 수집 중 오류 발생: name 'current_month' is not defined
+2024-11-02 16:49:36,013 - INFO - 평균 예약률: 100.00%
+2024-11-02 16:49:36,013 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-02 16:49:36,573 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-02 16:49:36,592 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-02 16:49:36,593 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-02 16:49:36,881 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-02 16:49:40,605 - INFO - 드라이버가 종료되었습니다.
+2024-11-02 16:51:06,694 - INFO - ====== WebDriver manager ======
+2024-11-02 16:51:07,768 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:51:07,810 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:51:07,840 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-02 16:51:12,262 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-02 16:51:17,979 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-02 16:51:18,030 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-02 16:51:21,561 - INFO - 11월 예약현황 : 23 / 29
+2024-11-02 16:51:23,499 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 16:51:25,501 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:51:27,463 - INFO - 평균 예약률: 74.73%
+2024-11-02 16:51:27,467 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-02 16:51:28,036 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-02 16:51:31,054 - INFO - 11월 예약현황 : 15 / 29
+2024-11-02 16:51:32,990 - INFO - 12월 예약현황 : 2 / 31
+2024-11-02 16:51:35,027 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:51:36,912 - INFO - 평균 예약률: 81.32%
+2024-11-02 16:51:36,915 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-02 16:51:37,488 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-02 16:51:40,496 - INFO - 11월 예약현황 : 0 / 29
+2024-11-02 16:51:42,448 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 16:51:44,437 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:51:46,403 - INFO - 평균 예약률: 100.00%
+2024-11-02 16:51:46,403 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-02 16:51:46,971 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-02 16:51:46,987 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-02 16:51:46,988 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-02 16:51:47,183 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-02 16:51:50,914 - INFO - 드라이버가 종료되었습니다.
+2024-11-02 16:55:16,255 - INFO - ====== WebDriver manager ======
+2024-11-02 16:55:17,360 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:55:17,392 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:55:17,421 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-02 16:55:21,984 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-02 16:55:28,191 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-02 16:55:28,260 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-02 16:55:31,841 - WARNING - 예약 현황 수집 중 오류 발생: cannot access local variable 'total_disabled' where it is not associated with a value
+2024-11-02 16:55:31,842 - INFO - 평균 예약률: 0.00%
+2024-11-02 16:55:31,842 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-02 16:55:32,403 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-02 16:55:35,404 - WARNING - 예약 현황 수집 중 오류 발생: cannot access local variable 'total_disabled' where it is not associated with a value
+2024-11-02 16:55:35,405 - INFO - 평균 예약률: 0.00%
+2024-11-02 16:55:35,405 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-02 16:55:35,975 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-02 16:55:36,744 - ERROR - 포스트 처리 중 오류 발생: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Stacktrace:
+	GetHandleVerifier [0x006B38B3+24035]
+	(No symbol) [0x0063BC44]
+	(No symbol) [0x0051C2D3]
+	(No symbol) [0x004FE00B]
+	(No symbol) [0x00585F4F]
+	(No symbol) [0x00598E99]
+	(No symbol) [0x0057FC26]
+	(No symbol) [0x0055218C]
+	(No symbol) [0x0055310D]
+	GetHandleVerifier [0x009596D3+2800643]
+	GetHandleVerifier [0x009B428E+3172286]
+	GetHandleVerifier [0x009ACEA2+3142610]
+	GetHandleVerifier [0x00756C60+692624]
+	(No symbol) [0x00644C5D]
+	(No symbol) [0x00641968]
+	(No symbol) [0x00641B00]
+	(No symbol) [0x00633FB0]
+	BaseThreadInitThunk [0x758E7BA9+25]
+	RtlInitializeExceptionChain [0x7700C0CB+107]
+	RtlClearBits [0x7700C04F+191]
+Traceback (most recent call last):
+  File "C:\Users\leeha\AppData\Local\Temp\ipykernel_6852\1926534546.py", line 65, in process_rooms
+    WebDriverWait(driver, 10).until(
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\support\wait.py", line 96, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\support\expected_conditions.py", line 84, in _predicate
+    return driver.find_element(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 748, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 354, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Stacktrace:
+	GetHandleVerifier [0x006B38B3+24035]
+	(No symbol) [0x0063BC44]
+	(No symbol) [0x0051C2D3]
+	(No symbol) [0x004FE00B]
+	(No symbol) [0x00585F4F]
+	(No symbol) [0x00598E99]
+	(No symbol) [0x0057FC26]
+	(No symbol) [0x0055218C]
+	(No symbol) [0x0055310D]
+	GetHandleVerifier [0x009596D3+2800643]
+	GetHandleVerifier [0x009B428E+3172286]
+	GetHandleVerifier [0x009ACEA2+3142610]
+	GetHandleVerifier [0x00756C60+692624]
+	(No symbol) [0x00644C5D]
+	(No symbol) [0x00641968]
+	(No symbol) [0x00641B00]
+	(No symbol) [0x00633FB0]
+	BaseThreadInitThunk [0x758E7BA9+25]
+	RtlInitializeExceptionChain [0x7700C0CB+107]
+	RtlClearBits [0x7700C04F+191]
+
+2024-11-02 16:55:36,748 - ERROR - 방 크롤링 중 오류 발생: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=130.0.6723.92)
+Stacktrace:
+	GetHandleVerifier [0x006B38B3+24035]
+	(No symbol) [0x0063BC44]
+	(No symbol) [0x0051C2D3]
+	(No symbol) [0x0050B77E]
+	(No symbol) [0x0050C50D]
+	(No symbol) [0x0051C7E2]
+	(No symbol) [0x004FDC25]
+	(No symbol) [0x0058C657]
+	(No symbol) [0x0057FE53]
+	(No symbol) [0x0055218C]
+	(No symbol) [0x0055310D]
+	GetHandleVerifier [0x009596D3+2800643]
+	GetHandleVerifier [0x009B428E+3172286]
+	GetHandleVerifier [0x009ACEA2+3142610]
+	GetHandleVerifier [0x00756C60+692624]
+	(No symbol) [0x00644C5D]
+	(No symbol) [0x00641968]
+	(No symbol) [0x00641B00]
+	(No symbol) [0x00633FB0]
+	BaseThreadInitThunk [0x758E7BA9+25]
+	RtlInitializeExceptionChain [0x7700C0CB+107]
+	RtlClearBits [0x7700C04F+191]
+Traceback (most recent call last):
+  File "C:\Users\leeha\AppData\Local\Temp\ipykernel_6852\1926534546.py", line 65, in process_rooms
+    WebDriverWait(driver, 10).until(
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\support\wait.py", line 96, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\support\expected_conditions.py", line 84, in _predicate
+    return driver.find_element(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 748, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 354, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Stacktrace:
+	GetHandleVerifier [0x006B38B3+24035]
+	(No symbol) [0x0063BC44]
+	(No symbol) [0x0051C2D3]
+	(No symbol) [0x004FE00B]
+	(No symbol) [0x00585F4F]
+	(No symbol) [0x00598E99]
+	(No symbol) [0x0057FC26]
+	(No symbol) [0x0055218C]
+	(No symbol) [0x0055310D]
+	GetHandleVerifier [0x009596D3+2800643]
+	GetHandleVerifier [0x009B428E+3172286]
+	GetHandleVerifier [0x009ACEA2+3142610]
+	GetHandleVerifier [0x00756C60+692624]
+	(No symbol) [0x00644C5D]
+	(No symbol) [0x00641968]
+	(No symbol) [0x00641B00]
+	(No symbol) [0x00633FB0]
+	BaseThreadInitThunk [0x758E7BA9+25]
+	RtlInitializeExceptionChain [0x7700C0CB+107]
+	RtlClearBits [0x7700C04F+191]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\leeha\AppData\Local\Temp\ipykernel_6852\1926534546.py", line 173, in process_rooms
+    if len(driver.window_handles) > 1:
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 501, in window_handles
+    return self.execute(Command.W3C_GET_WINDOW_HANDLES)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 354, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=130.0.6723.92)
+Stacktrace:
+	GetHandleVerifier [0x006B38B3+24035]
+	(No symbol) [0x0063BC44]
+	(No symbol) [0x0051C2D3]
+	(No symbol) [0x0050B77E]
+	(No symbol) [0x0050C50D]
+	(No symbol) [0x0051C7E2]
+	(No symbol) [0x004FDC25]
+	(No symbol) [0x0058C657]
+	(No symbol) [0x0057FE53]
+	(No symbol) [0x0055218C]
+	(No symbol) [0x0055310D]
+	GetHandleVerifier [0x009596D3+2800643]
+	GetHandleVerifier [0x009B428E+3172286]
+	GetHandleVerifier [0x009ACEA2+3142610]
+	GetHandleVerifier [0x00756C60+692624]
+	(No symbol) [0x00644C5D]
+	(No symbol) [0x00641968]
+	(No symbol) [0x00641B00]
+	(No symbol) [0x00633FB0]
+	BaseThreadInitThunk [0x758E7BA9+25]
+	RtlInitializeExceptionChain [0x7700C0CB+107]
+	RtlClearBits [0x7700C04F+191]
+
+2024-11-02 16:55:36,750 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-02 16:55:36,752 - WARNING - 크롤링을 종료합니다: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Stacktrace:
+	GetHandleVerifier [0x006B38B3+24035]
+	(No symbol) [0x0063BC44]
+	(No symbol) [0x0051C2D3]
+	(No symbol) [0x004FE00B]
+	(No symbol) [0x00585F4F]
+	(No symbol) [0x00598E99]
+	(No symbol) [0x0057FC26]
+	(No symbol) [0x0055218C]
+	(No symbol) [0x0055310D]
+	GetHandleVerifier [0x009596D3+2800643]
+	GetHandleVerifier [0x009B428E+3172286]
+	GetHandleVerifier [0x009ACEA2+3142610]
+	GetHandleVerifier [0x00756C60+692624]
+	(No symbol) [0x00644C5D]
+	(No symbol) [0x00641968]
+	(No symbol) [0x00641B00]
+	(No symbol) [0x00633FB0]
+	BaseThreadInitThunk [0x758E7BA9+25]
+	RtlInitializeExceptionChain [0x7700C0CB+107]
+	RtlClearBits [0x7700C04F+191]
+
+2024-11-02 16:55:36,920 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-02 16:55:40,048 - INFO - 드라이버가 종료되었습니다.
+2024-11-02 16:55:59,574 - INFO - ====== WebDriver manager ======
+2024-11-02 16:56:01,026 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:56:01,048 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:56:01,079 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-02 16:56:05,275 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-02 16:56:10,927 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-02 16:56:10,993 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-02 16:56:14,573 - INFO - 11월 예약현황 : 23 / 29
+2024-11-02 16:56:16,509 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 16:56:18,568 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:56:20,491 - INFO - 평균 예약률: 25.27%
+2024-11-02 16:56:20,494 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-02 16:56:21,059 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-02 16:56:24,072 - INFO - 11월 예약현황 : 15 / 29
+2024-11-02 16:56:26,009 - INFO - 12월 예약현황 : 2 / 31
+2024-11-02 16:56:28,025 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:56:29,941 - INFO - 평균 예약률: 18.68%
+2024-11-02 16:56:29,942 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-02 16:56:30,502 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-02 16:56:33,439 - INFO - 11월 예약현황 : 0 / 29
+2024-11-02 16:56:35,419 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 16:56:37,478 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:56:39,401 - INFO - 평균 예약률: 0.00%
+2024-11-02 16:56:39,408 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-02 16:56:39,984 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-02 16:56:39,994 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-02 16:56:39,995 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-02 16:56:40,191 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-02 16:56:43,930 - INFO - 드라이버가 종료되었습니다.
+2024-11-02 16:58:03,243 - INFO - ====== WebDriver manager ======
+2024-11-02 16:58:04,393 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:58:04,420 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:58:04,535 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-02 16:58:08,261 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-02 16:58:13,979 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-02 16:58:14,043 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-02 16:58:17,634 - INFO - 11월 예약현황 : 23 / 29
+2024-11-02 16:58:19,576 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 16:58:21,579 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:58:23,471 - INFO - 평균 예약률: 25.27%
+2024-11-02 16:58:23,473 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-02 16:58:24,033 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-02 16:58:27,033 - INFO - 11월 예약현황 : 15 / 29
+2024-11-02 16:58:29,005 - INFO - 12월 예약현황 : 2 / 31
+2024-11-02 16:58:30,974 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:58:32,896 - INFO - 평균 예약률: 18.68%
+2024-11-02 16:58:32,896 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-02 16:58:33,461 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-02 16:58:36,576 - INFO - 11월 예약현황 : 0 / 29
+2024-11-02 16:58:38,544 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 16:58:40,515 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:58:42,464 - INFO - 평균 예약률: 0.00%
+2024-11-02 16:58:42,467 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-02 16:58:43,034 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-02 16:58:43,043 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-02 16:58:43,044 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-02 16:58:43,229 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-02 16:58:46,928 - INFO - 드라이버가 종료되었습니다.
+2024-11-02 16:58:51,034 - INFO - ====== WebDriver manager ======
+2024-11-02 16:58:52,161 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:58:52,184 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:58:52,210 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-02 16:58:55,923 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-02 16:58:57,925 - ERROR - 예상치 못한 오류 발생: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Stacktrace:
+	GetHandleVerifier [0x006B38B3+24035]
+	(No symbol) [0x0063BC44]
+	(No symbol) [0x0051C2D3]
+	(No symbol) [0x004FE00B]
+	(No symbol) [0x00585F4F]
+	(No symbol) [0x00598E99]
+	(No symbol) [0x0057FC26]
+	(No symbol) [0x0055218C]
+	(No symbol) [0x0055310D]
+	GetHandleVerifier [0x009596D3+2800643]
+	GetHandleVerifier [0x009B428E+3172286]
+	GetHandleVerifier [0x009ACEA2+3142610]
+	GetHandleVerifier [0x00756C60+692624]
+	(No symbol) [0x00644C5D]
+	(No symbol) [0x00641968]
+	(No symbol) [0x00641B00]
+	(No symbol) [0x00633FB0]
+	BaseThreadInitThunk [0x758E7BA9+25]
+	RtlInitializeExceptionChain [0x7700C0CB+107]
+	RtlClearBits [0x7700C04F+191]
+Traceback (most recent call last):
+  File "C:\Users\leeha\AppData\Local\Temp\ipykernel_19324\1883621387.py", line 212, in main
+    search = driver.find_element(By.CSS_SELECTOR, '#txt_search_keyword')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 748, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 354, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Stacktrace:
+	GetHandleVerifier [0x006B38B3+24035]
+	(No symbol) [0x0063BC44]
+	(No symbol) [0x0051C2D3]
+	(No symbol) [0x004FE00B]
+	(No symbol) [0x00585F4F]
+	(No symbol) [0x00598E99]
+	(No symbol) [0x0057FC26]
+	(No symbol) [0x0055218C]
+	(No symbol) [0x0055310D]
+	GetHandleVerifier [0x009596D3+2800643]
+	GetHandleVerifier [0x009B428E+3172286]
+	GetHandleVerifier [0x009ACEA2+3142610]
+	GetHandleVerifier [0x00756C60+692624]
+	(No symbol) [0x00644C5D]
+	(No symbol) [0x00641968]
+	(No symbol) [0x00641B00]
+	(No symbol) [0x00633FB0]
+	BaseThreadInitThunk [0x758E7BA9+25]
+	RtlInitializeExceptionChain [0x7700C0CB+107]
+	RtlClearBits [0x7700C04F+191]
+
+2024-11-02 16:59:00,084 - INFO - 드라이버가 종료되었습니다.
+2024-11-02 16:59:04,605 - INFO - ====== WebDriver manager ======
+2024-11-02 16:59:05,762 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:59:05,787 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 16:59:05,818 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-02 16:59:09,463 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-02 16:59:15,114 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-02 16:59:15,171 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-02 16:59:18,583 - INFO - 11월 예약현황 : 23 / 29
+2024-11-02 16:59:20,531 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 16:59:22,560 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:59:24,486 - INFO - 평균 예약률: 25.27%
+2024-11-02 16:59:24,487 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-02 16:59:25,052 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-02 16:59:28,112 - INFO - 11월 예약현황 : 15 / 29
+2024-11-02 16:59:30,054 - INFO - 12월 예약현황 : 2 / 31
+2024-11-02 16:59:31,991 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:59:33,876 - INFO - 평균 예약률: 18.68%
+2024-11-02 16:59:33,876 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-02 16:59:34,447 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-02 16:59:37,501 - INFO - 11월 예약현황 : 0 / 29
+2024-11-02 16:59:39,428 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 16:59:41,354 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 16:59:43,251 - INFO - 평균 예약률: 0.00%
+2024-11-02 16:59:43,251 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-02 16:59:43,830 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-02 16:59:43,989 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-02 16:59:43,991 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-02 16:59:44,342 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-02 16:59:48,251 - INFO - 드라이버가 종료되었습니다.
+2024-11-02 17:04:33,712 - INFO - ====== WebDriver manager ======
+2024-11-02 17:04:34,847 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 17:04:34,875 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 17:04:34,900 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-02 17:04:39,335 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-02 17:04:44,990 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-02 17:04:45,047 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-02 17:04:48,025 - INFO - 11월 예약현황 : 23 / 29
+2024-11-02 17:04:50,004 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 17:04:51,948 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 17:04:53,953 - INFO - 평균 예약률: 25.27%
+2024-11-02 17:04:53,954 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-02 17:04:54,514 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-02 17:04:57,548 - INFO - 11월 예약현황 : 15 / 29
+2024-11-02 17:04:59,470 - INFO - 12월 예약현황 : 2 / 31
+2024-11-02 17:05:01,453 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 17:05:03,326 - INFO - 평균 예약률: 18.68%
+2024-11-02 17:05:03,330 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-02 17:05:03,908 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-02 17:05:06,868 - INFO - 11월 예약현황 : 0 / 29
+2024-11-02 17:05:08,951 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 17:05:10,890 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 17:05:12,823 - INFO - 평균 예약률: 0.00%
+2024-11-02 17:05:12,823 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-02 17:05:13,382 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-02 17:05:13,404 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-02 17:05:13,404 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-02 17:05:13,649 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-02 17:05:17,404 - INFO - 드라이버가 종료되었습니다.
+2024-11-02 17:07:16,036 - INFO - ====== WebDriver manager ======
+2024-11-02 17:07:17,145 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 17:07:17,172 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 17:07:17,197 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-02 17:07:21,130 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-02 17:07:26,799 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-02 17:07:26,867 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-02 17:07:30,572 - INFO - 11월 예약현황 : 23 / 29
+2024-11-02 17:07:32,493 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 17:07:34,598 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 17:07:36,522 - INFO - 평균 예약률: 25.27%
+2024-11-02 17:07:36,526 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-02 17:07:37,096 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-02 17:07:40,161 - INFO - 11월 예약현황 : 15 / 29
+2024-11-02 17:07:42,130 - INFO - 12월 예약현황 : 2 / 31
+2024-11-02 17:07:44,071 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 17:07:45,966 - INFO - 평균 예약률: 18.68%
+2024-11-02 17:07:45,967 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-02 17:07:46,535 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-02 17:07:49,539 - INFO - 11월 예약현황 : 0 / 29
+2024-11-02 17:07:51,585 - INFO - 12월 예약현황 : 0 / 31
+2024-11-02 17:07:53,539 - INFO - 1월 예약현황 : 0 / 31
+2024-11-02 17:07:55,585 - INFO - 평균 예약률: 0.00%
+2024-11-02 17:07:55,586 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-02 17:07:56,152 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-02 17:07:56,160 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-02 17:07:56,160 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-02 17:07:56,354 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-02 17:08:00,088 - INFO - 드라이버가 종료되었습니다.
+2024-11-03 11:18:21,713 - INFO - ====== WebDriver manager ======
+2024-11-03 11:18:22,901 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 11:18:22,947 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 11:18:22,971 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 11:18:23,068 - INFO - WebDriver version 130.0.6723.91 selected
+2024-11-03 11:18:23,070 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.91/win32/chromedriver-win32.zip
+2024-11-03 11:18:23,070 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.91/win32/chromedriver-win32.zip
+2024-11-03 11:18:23,109 - INFO - Driver downloading response is 200
+2024-11-03 11:18:23,287 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 11:18:23,448 - INFO - Driver has been saved in cache [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91]
+2024-11-03 11:18:31,631 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-03 11:18:37,476 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-03 11:18:37,549 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-03 11:18:41,326 - INFO - 11월 예약현황 : 22 / 28
+2024-11-03 11:18:43,344 - INFO - 12월 예약현황 : 0 / 31
+2024-11-03 11:18:45,304 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:18:47,283 - INFO - 평균 예약률: 24.44%
+2024-11-03 11:18:47,286 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-03 11:18:47,857 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-03 11:18:50,939 - INFO - 11월 예약현황 : 14 / 28
+2024-11-03 11:18:52,908 - INFO - 12월 예약현황 : 2 / 31
+2024-11-03 11:18:54,913 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:18:56,867 - INFO - 평균 예약률: 17.78%
+2024-11-03 11:18:56,868 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-03 11:18:57,446 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-03 11:19:00,362 - INFO - 11월 예약현황 : 0 / 28
+2024-11-03 11:19:02,350 - INFO - 12월 예약현황 : 0 / 31
+2024-11-03 11:19:04,317 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:19:06,239 - INFO - 평균 예약률: 0.00%
+2024-11-03 11:19:06,244 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-03 11:19:06,806 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-03 11:19:06,831 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-03 11:19:06,831 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-03 11:19:07,194 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-03 11:19:10,940 - INFO - 드라이버가 종료되었습니다.
+2024-11-03 11:20:01,646 - INFO - ====== WebDriver manager ======
+2024-11-03 11:20:02,723 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 11:20:02,763 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 11:20:02,788 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-03 11:20:05,199 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-03 11:20:10,845 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-03 11:20:10,918 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-03 11:20:14,757 - INFO - 11월 예약현황 : 22 / 28
+2024-11-03 11:20:16,740 - INFO - 12월 예약현황 : 0 / 31
+2024-11-03 11:20:18,685 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:20:20,660 - INFO - 평균 예약률: 24.44%
+2024-11-03 11:20:20,660 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-03 11:20:21,216 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-03 11:20:24,348 - INFO - 11월 예약현황 : 14 / 28
+2024-11-03 11:20:26,383 - INFO - 12월 예약현황 : 2 / 31
+2024-11-03 11:20:28,305 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:20:30,190 - INFO - 평균 예약률: 17.78%
+2024-11-03 11:20:30,190 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-03 11:20:30,760 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-03 11:20:33,697 - INFO - 11월 예약현황 : 0 / 28
+2024-11-03 11:20:35,668 - INFO - 12월 예약현황 : 0 / 31
+2024-11-03 11:20:37,664 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:20:39,578 - INFO - 평균 예약률: 0.00%
+2024-11-03 11:20:39,581 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-03 11:20:40,145 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-03 11:20:40,169 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-03 11:20:40,170 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-03 11:20:40,381 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-03 11:20:44,126 - INFO - 드라이버가 종료되었습니다.
+2024-11-03 11:21:25,136 - INFO - ====== WebDriver manager ======
+2024-11-03 11:21:26,353 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 11:21:26,373 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 11:21:26,399 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-03 11:21:30,440 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-03 11:21:36,062 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-03 11:21:36,106 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-03 11:21:39,660 - INFO - 11월 예약현황 : 22 / 28
+2024-11-03 11:21:41,677 - INFO - 12월 예약현황 : 0 / 31
+2024-11-03 11:21:43,599 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:21:45,492 - INFO - 평균 예약률: 24.44%
+2024-11-03 11:21:45,493 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-03 11:21:46,062 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-03 11:21:49,018 - INFO - 11월 예약현황 : 14 / 28
+2024-11-03 11:21:51,015 - INFO - 12월 예약현황 : 2 / 31
+2024-11-03 11:21:52,988 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:21:54,932 - INFO - 평균 예약률: 17.78%
+2024-11-03 11:21:54,937 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-03 11:21:55,511 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-03 11:21:58,343 - INFO - 11월 예약현황 : 0 / 28
+2024-11-03 11:22:00,369 - INFO - 12월 예약현황 : 0 / 31
+2024-11-03 11:22:02,385 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:22:04,309 - INFO - 평균 예약률: 0.00%
+2024-11-03 11:22:04,316 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-03 11:22:04,881 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-03 11:22:04,905 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-03 11:22:04,906 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-03 11:22:05,149 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-03 11:22:08,910 - INFO - 드라이버가 종료되었습니다.
+2024-11-03 11:22:23,087 - INFO - ====== WebDriver manager ======
+2024-11-03 11:22:24,052 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 11:22:24,085 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 11:22:24,111 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-03 11:22:27,615 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-03 11:22:33,026 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-03 11:22:33,089 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-03 11:22:42,233 - INFO - 11월 예약현황 : 22 / 28
+2024-11-03 11:22:44,245 - INFO - 12월 예약현황 : 0 / 31
+2024-11-03 11:22:46,191 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:22:48,225 - INFO - 평균 예약률: 24.44%
+2024-11-03 11:22:48,225 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-03 11:22:48,784 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-03 11:22:52,097 - INFO - 11월 예약현황 : 14 / 28
+2024-11-03 11:22:54,096 - INFO - 12월 예약현황 : 2 / 31
+2024-11-03 11:22:56,188 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:22:58,314 - INFO - 평균 예약률: 17.78%
+2024-11-03 11:22:58,315 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-03 11:22:58,930 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-03 11:23:02,437 - INFO - 11월 예약현황 : 0 / 28
+2024-11-03 11:23:04,608 - INFO - 12월 예약현황 : 0 / 31
+2024-11-03 11:23:06,701 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:23:08,792 - INFO - 평균 예약률: 0.00%
+2024-11-03 11:23:08,793 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-03 11:23:09,363 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-03 11:23:09,370 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-03 11:23:09,370 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-03 11:23:09,560 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-03 11:23:13,259 - INFO - 드라이버가 종료되었습니다.
+2024-11-03 11:33:57,455 - INFO - ====== WebDriver manager ======
+2024-11-03 11:33:58,693 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 11:33:58,721 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 11:33:58,744 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-03 11:34:03,622 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-03 11:34:09,366 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-03 11:34:09,431 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-03 11:34:12,932 - INFO - 11월 예약현황 : 22 / 28
+2024-11-03 11:34:14,926 - INFO - 12월 예약현황 : 0 / 31
+2024-11-03 11:34:16,925 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:34:18,848 - INFO - 평균 예약률: 24.44%
+2024-11-03 11:34:18,850 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-03 11:34:19,424 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-03 11:34:22,480 - INFO - 11월 예약현황 : 14 / 28
+2024-11-03 11:34:24,486 - INFO - 12월 예약현황 : 2 / 31
+2024-11-03 11:34:26,436 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:34:28,366 - INFO - 평균 예약률: 17.78%
+2024-11-03 11:34:28,370 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-03 11:34:28,936 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-03 11:34:31,971 - INFO - 11월 예약현황 : 0 / 28
+2024-11-03 11:34:33,895 - INFO - 12월 예약현황 : 0 / 31
+2024-11-03 11:34:35,899 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:34:37,814 - INFO - 평균 예약률: 0.00%
+2024-11-03 11:34:37,817 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-03 11:34:38,380 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-03 11:34:38,418 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-03 11:34:38,418 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-03 11:34:38,710 - INFO - 예약률 전체 평균 추가 완료: 14.07%
+2024-11-03 11:34:38,744 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-03 11:34:42,488 - INFO - 드라이버가 종료되었습니다.
+2024-11-03 11:36:30,070 - INFO - ====== WebDriver manager ======
+2024-11-03 11:36:31,064 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 11:36:31,089 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 11:36:31,110 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-03 11:36:35,758 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-03 11:36:41,478 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-03 11:36:41,531 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-03 11:36:44,494 - INFO - 11월 예약현황 : 22 / 28
+2024-11-03 11:36:46,443 - INFO - 12월 예약현황 : 0 / 31
+2024-11-03 11:36:48,354 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:36:50,266 - INFO - 평균 예약률: 24.4%
+2024-11-03 11:36:50,269 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-03 11:36:50,840 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-03 11:36:53,786 - INFO - 11월 예약현황 : 14 / 28
+2024-11-03 11:36:55,741 - INFO - 12월 예약현황 : 2 / 31
+2024-11-03 11:36:57,812 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:36:59,747 - INFO - 평균 예약률: 17.8%
+2024-11-03 11:36:59,749 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-03 11:37:00,321 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-03 11:37:03,335 - INFO - 11월 예약현황 : 0 / 28
+2024-11-03 11:37:05,321 - INFO - 12월 예약현황 : 0 / 31
+2024-11-03 11:37:07,368 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 11:37:09,319 - INFO - 평균 예약률: 0.0%
+2024-11-03 11:37:09,325 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-03 11:37:09,913 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-03 11:37:09,938 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-03 11:37:09,939 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-03 11:37:10,171 - INFO - 예약률 전체 평균 추가 완료: 14.1%
+2024-11-03 11:37:10,185 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-03 11:37:13,916 - INFO - 드라이버가 종료되었습니다.
+2024-11-03 12:07:17,744 - INFO - ====== WebDriver manager ======
+2024-11-03 12:07:18,835 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 12:07:18,855 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 12:07:18,881 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-03 12:07:21,474 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-03 12:07:21,507 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-03 12:07:21,521 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-03 12:07:21,522 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-03 12:07:21,522 - INFO - 수집된 데이터가 없어 엑셀 파일을 생성하지 않았습니다.
+2024-11-03 12:07:23,929 - INFO - 드라이버가 종료되었습니다.
+2024-11-03 12:07:51,060 - INFO - ====== WebDriver manager ======
+2024-11-03 12:07:52,252 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 12:07:52,276 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-03 12:07:52,301 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-03 12:07:56,091 - INFO - 웹사이트에 성공적으로 접속했습니다.
+2024-11-03 12:08:01,704 - INFO - 첫 번째 페이지 크롤링 시작
+2024-11-03 12:08:01,767 - INFO - 1/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/40848
+2024-11-03 12:08:05,190 - INFO - 11월 예약현황 : 22 / 28
+2024-11-03 12:08:07,144 - INFO - 12월 예약현황 : 0 / 31
+2024-11-03 12:08:09,127 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 12:08:11,039 - INFO - 평균 예약률: 24.4%
+2024-11-03 12:08:11,042 - INFO - 데이터 추가 완료: 거창수승대 강변뷰 숙소
+2024-11-03 12:08:11,621 - INFO - 2/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/47088
+2024-11-03 12:08:14,669 - INFO - 11월 예약현황 : 14 / 28
+2024-11-03 12:08:16,575 - INFO - 12월 예약현황 : 2 / 31
+2024-11-03 12:08:18,578 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 12:08:20,519 - INFO - 평균 예약률: 17.8%
+2024-11-03 12:08:20,521 - INFO - 데이터 추가 완료: 옥주의정원
+2024-11-03 12:08:21,106 - INFO - 3/3번째 포스트 처리 중: https://33m2.co.kr/room/detail/37489
+2024-11-03 12:08:24,304 - INFO - 11월 예약현황 : 0 / 28
+2024-11-03 12:08:26,385 - INFO - 12월 예약현황 : 0 / 31
+2024-11-03 12:08:28,393 - INFO - 1월 예약현황 : 0 / 31
+2024-11-03 12:08:30,386 - INFO - 평균 예약률: 0.0%
+2024-11-03 12:08:30,386 - INFO - 데이터 추가 완료: 고도 420m 공기좋은
+2024-11-03 12:08:30,955 - INFO - 첫 번째 페이지 크롤링 완료
+2024-11-03 12:08:30,988 - WARNING - 페이지 2 버튼을 찾을 수 없습니다. 크롤링을 종료합니다.
+2024-11-03 12:08:30,989 - WARNING - 크롤링을 종료합니다: 더 이상 페이지가 존재하지 않습니다.
+2024-11-03 12:08:31,192 - INFO - 예약률 전체 평균 추가 완료: 14.1%
+2024-11-03 12:08:31,209 - INFO - 데이터가 성공적으로 'rooms_data.xlsx' 파일로 저장되었습니다.
+2024-11-03 12:08:34,963 - INFO - 드라이버가 종료되었습니다.
+2024-11-04 16:16:17,059 - INFO - ====== WebDriver manager ======
+2024-11-04 16:16:18,127 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-04 16:16:18,156 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-04 16:16:18,176 - INFO - Driver [C:\Users\leeha\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver.exe] found in cache
+2024-11-04 16:16:22,005 - ERROR - 예상치 못한 오류 발생: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Stacktrace:
+	GetHandleVerifier [0x00A038B3+24035]
+	(No symbol) [0x0098BC44]
+	(No symbol) [0x0086C2D3]
+	(No symbol) [0x0084E00B]
+	(No symbol) [0x008D5F4F]
+	(No symbol) [0x008E8E99]
+	(No symbol) [0x008CFC26]
+	(No symbol) [0x008A218C]
+	(No symbol) [0x008A310D]
+	GetHandleVerifier [0x00CA96D3+2800643]
+	GetHandleVerifier [0x00D0428E+3172286]
+	GetHandleVerifier [0x00CFCEA2+3142610]
+	GetHandleVerifier [0x00AA6C60+692624]
+	(No symbol) [0x00994C5D]
+	(No symbol) [0x00991968]
+	(No symbol) [0x00991B00]
+	(No symbol) [0x00983FB0]
+	BaseThreadInitThunk [0x758E7BA9+25]
+	RtlInitializeExceptionChain [0x7700C0CB+107]
+	RtlClearBits [0x7700C04F+191]
+Traceback (most recent call last):
+  File "c:\Users\leeha\Desktop\삼삼엠투\crawler.py", line 286, in crawl
+    WebDriverWait(driver, 10).until(
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\support\wait.py", line 96, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\support\expected_conditions.py", line 84, in _predicate
+    return driver.find_element(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 748, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\webdriver.py", line 354, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\leeha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Stacktrace:
+	GetHandleVerifier [0x00A038B3+24035]
+	(No symbol) [0x0098BC44]
+	(No symbol) [0x0086C2D3]
+	(No symbol) [0x0084E00B]
+	(No symbol) [0x008D5F4F]
+	(No symbol) [0x008E8E99]
+	(No symbol) [0x008CFC26]
+	(No symbol) [0x008A218C]
+	(No symbol) [0x008A310D]
+	GetHandleVerifier [0x00CA96D3+2800643]
+	GetHandleVerifier [0x00D0428E+3172286]
+	GetHandleVerifier [0x00CFCEA2+3142610]
+	GetHandleVerifier [0x00AA6C60+692624]
+	(No symbol) [0x00994C5D]
+	(No symbol) [0x00991968]
+	(No symbol) [0x00991B00]
+	(No symbol) [0x00983FB0]
+	BaseThreadInitThunk [0x758E7BA9+25]
+	RtlInitializeExceptionChain [0x7700C0CB+107]
+	RtlClearBits [0x7700C04F+191]
+
+2024-11-04 16:16:24,751 - INFO - 드라이버가 종료되었습니다.

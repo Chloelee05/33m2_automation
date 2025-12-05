@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>560</width>
+    <height>661</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>삼삼엠투 매물 정보수집 프로그램</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>40</y>
+     <width>551</width>
+     <height>63</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>NanumGothic</family>
+     <pointsize>22</pointsize>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;삼삼엠투 매물정보 크롤링 프로그램&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignmentFlag::AlignCenter</set>
+   </property>
+   <property name="wordWrap">
+    <bool>false</bool>
+   </property>
+   <property name="margin">
+    <number>15</number>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>4</x>
+     <y>160</y>
+     <width>61</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>NanumGothic</family>
+     <pointsize>12</pointsize>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>키워드</string>
+   </property>
+   <property name="margin">
+    <number>5</number>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="keyword">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>160</y>
+     <width>451</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>NanumGothic</family>
+    </font>
+   </property>
+   <property name="placeholderText">
+    <string>지역 키워드를 입력해주세요. (예 : 사당,강남)</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="keyword_btn">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>590</y>
+     <width>131</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>NanumGothic</family>
+     <pointsize>10</pointsize>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>📊키워드 설정하기</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>280</y>
+     <width>511</width>
+     <height>301</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>NanumGothic</family>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border: 1px solid black;
+border-radius: 5px;
+padding: 8px;</string>
+   </property>
+   <property name="placeholderText">
+    <string>여기에서 진행현황을 보실 수 있습니다 :-)</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="start_btn">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>590</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>NanumGothic</family>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>🔍 추출시작</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="reset_btn">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>590</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>NanumGothic</family>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>🚀 초기화</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="quit_btn">
+   <property name="geometry">
+    <rect>
+     <x>430</x>
+     <y>590</y>
+     <width>91</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>NanumGothic</family>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>❌ 종료</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>181</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>NanumGothic</family>
+     <pointsize>10</pointsize>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>제작 : 크몽 - 잘노는첫눈❄️</string>
+   </property>
+   <property name="margin">
+    <number>5</number>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_17">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>200</y>
+     <width>521</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>NanumGothic</family>
+     <pointsize>10</pointsize>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>⚠️ 키워드를 한개만 넣으셔도 되고, 콤마(,)로 띄어쓰기 없이 연결하여 쓰셔도 됩니다! ⚠️</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_18">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>230</y>
+     <width>521</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>NanumGothic</family>
+     <pointsize>10</pointsize>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>⚠️ 키워드가 여러개인 경우, 한 키워드의 작업이 끝난 후 다른 키워드에 대해 진행됩니다!⚠️</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>120</y>
+     <width>71</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>NanumGothic</family>
+     <pointsize>12</pointsize>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>만료 날짜</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="expire_date">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>120</y>
+     <width>441</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>NanumGothic</family>
+     <pointsize>12</pointsize>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
